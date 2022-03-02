@@ -1,0 +1,10 @@
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.BusinessLogics\bin\Debug\HamroSite.BusinessLogics.dll.config
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.BusinessLogics\bin\Debug\HamroSite.BusinessLogics.dll
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.BusinessLogics\bin\Debug\HamroSite.BusinessLogics.pdb
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.BusinessLogics\bin\Debug\EntityFramework.dll
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.BusinessLogics\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.BusinessLogics\bin\Debug\EntityFramework.xml
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.BusinessLogics\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.BusinessLogics\obj\Debug\HamroSite.BusinessLogics.csprojResolveAssemblyReference.cache
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.BusinessLogics\obj\Debug\HamroSite.BusinessLogics.dll
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.BusinessLogics\obj\Debug\HamroSite.BusinessLogics.pdb

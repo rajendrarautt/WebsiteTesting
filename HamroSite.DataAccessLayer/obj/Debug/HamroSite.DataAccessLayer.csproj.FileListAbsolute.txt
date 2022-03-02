@@ -1,0 +1,10 @@
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.DataAccessLayer\bin\Debug\HamroSite.DataAccessLayer.dll.config
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.DataAccessLayer\bin\Debug\HamroSite.DataAccessLayer.dll
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.DataAccessLayer\bin\Debug\HamroSite.DataAccessLayer.pdb
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.DataAccessLayer\obj\Debug\HamroSite.DataAccessLayer.dll
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.DataAccessLayer\obj\Debug\HamroSite.DataAccessLayer.pdb
+D:\PROJECT\Web\C#\test\TestWebsite\HamroSite.DataAccessLayer\obj\Debug\HamroSite.DataAccessLayer.csprojResolveAssemblyReference.cache
